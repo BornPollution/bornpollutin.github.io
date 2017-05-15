@@ -1,0 +1,9 @@
+Package: com.hackyouriphone.linktunesios9
+Name: LinkTunes for iOS 9
+Version: 2.0
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Author: HackYouriPhone <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=linktunesios9
+Section: Tweaks
+Description: LinkTunes reuploaded for private downloads
