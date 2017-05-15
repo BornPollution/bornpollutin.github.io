@@ -1,17 +1,3 @@
-Package: com.johnrlebaron.firstproject
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: John LeBaron <johnrlebaron@gmail.com>
-Filename: ./debs/com.johnrlebaron.firstproject_1.0_iphoneos-arm.deb
-Size: 151590
-MD5sum: 1d52af94c761dbc97fc4f87807ade901
-SHA1: 89bee9e61eb1fa0c1f240f871c394827069f15e7
-SHA256: 571e393adf0007ead5f079a7f9eef213e4c8cfbb74f15e1bce75e424fb28bc68
-Section: Themes
-Description: Testing Theme I guess
-Author: John LeBaron <johnrlebaron@gmail.com>
-Name: FirstProject
-
 Package: com.johnrlebaron.horseshoe
 Version: 1.0.14
 Architecture: iphoneos-arm
@@ -19,9 +5,9 @@ Installed-Size: 984
 Depends: mobilesubstrate
 Filename: ./debs/com.johnrlebaron.horseshoe_1.0.14_iphoneos-arm.deb
 Size: 351876
-MD5sum: 1beb82c657c7fb40e65feac322d34b4e
-SHA1: 752a9f204cbf3255134a83e9eb4b939ab9aaff14
-SHA256: fc985f0fde764db238375d44ee2ebb59c372fbd2802fb1272fd23c83458245f4
+MD5sum: 42f2accba5b447165eac3e0ec20620f4
+SHA1: 9ba0fbebd8809ee1097d4eb4e614d1952a5185a8
+SHA256: df6f19829a058b399034cdd103a92d7a440c1711357d53c9fd177068b0a9b6d2
 Section: Tweaks
 Description: A better iOS 10 Control Center!
 Name: Horseshoe
