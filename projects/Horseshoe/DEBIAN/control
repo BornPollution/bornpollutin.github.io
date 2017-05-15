@@ -1,10 +1,8 @@
-Package: com.atwiiks.horseshoe
+Package: com.johnrlebaron.horseshoe
 Name: Horseshoe
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: A better iOS 10 Control Center!
-Maintainer: Andrew Wiik
-Author: Andrew Wiik
 Section: Tweaks
 Version: 1.0.14
 Installed-Size: 984

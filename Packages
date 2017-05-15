@@ -1,30 +1,28 @@
-Package: com.atwiiks.horseshoe
-Version: 1.0.14
-Architecture: iphoneos-arm
-Maintainer: Andrew Wiik
-Installed-Size: 984
-Depends: mobilesubstrate
-Filename: ./debs/com.atwiiks.horseshoe_1.0.14_iphoneos-arm.deb
-Size: 351898
-MD5sum: d56cfe7fcf05d94c72d4fcc003908de5
-SHA1: 6f60827046e61593372ed1768c1b16759641fcfc
-SHA256: ef5e475f34591b53bcdc21d6a0c4ab84a9ff3c45e5aee6f9f5e24024c76f26fe
-Section: Tweaks
-Description: A better iOS 10 Control Center!
-Author: Andrew Wiik
-Name: Horseshoe
-
 Package: com.johnrlebaron.firstproject
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <johnrlebaron@gmail.com>
 Filename: ./debs/com.johnrlebaron.firstproject_1.0_iphoneos-arm.deb
 Size: 151590
-MD5sum: d092a32b4a02e4566a2f42150bdf87ad
-SHA1: 44627fb64b671abeaddb003102ac5d76331a13fe
-SHA256: 2192f16f8817a628bd900bf801d0b3414befabd532c720fb1987027883c4bb80
+MD5sum: 1d52af94c761dbc97fc4f87807ade901
+SHA1: 89bee9e61eb1fa0c1f240f871c394827069f15e7
+SHA256: 571e393adf0007ead5f079a7f9eef213e4c8cfbb74f15e1bce75e424fb28bc68
 Section: Themes
 Description: Testing Theme I guess
 Author: John LeBaron <johnrlebaron@gmail.com>
 Name: FirstProject
+
+Package: com.johnrlebaron.horseshoe
+Version: 1.0.14
+Architecture: iphoneos-arm
+Installed-Size: 984
+Depends: mobilesubstrate
+Filename: ./debs/com.johnrlebaron.horseshoe_1.0.14_iphoneos-arm.deb
+Size: 351876
+MD5sum: 1beb82c657c7fb40e65feac322d34b4e
+SHA1: 752a9f204cbf3255134a83e9eb4b939ab9aaff14
+SHA256: fc985f0fde764db238375d44ee2ebb59c372fbd2802fb1272fd23c83458245f4
+Section: Tweaks
+Description: A better iOS 10 Control Center!
+Name: Horseshoe
 
