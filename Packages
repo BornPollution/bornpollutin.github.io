@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: John LeBaron <johnrlebaron@gmail.com>
 Filename: ./debs/com.johnrlebaron.firstproject_1.0_iphoneos-arm.deb
 Size: 152814
-MD5sum: 3d9d29ed74ca5e223b0423de9a2c0bfb
-SHA1: a443bc8cec90028881c9b32a1ad0d9809d9d40f4
-SHA256: c8c4db5d718347ba1b20fa4770a6c6651ed9deb7967fc9bb5a2e757a79985612
+MD5sum: c959cc1650145e5b3b9828016e4f3b08
+SHA1: fc4cc68b80ee84fa6e28cbb9fd4ddf4c341cca10
+SHA256: af34dc011dc903fe9a7e2318718cc60ced85e510ffb3b51157edda986c9f3291
 Section: Themes
 Description: Testing Theme I guess
 Author: John LeBaron <johnrlebaron@gmail.com>
@@ -18,11 +18,25 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.johnrlebaron.linktunes_2.0_iphoneos-arm.deb
 Size: 2324248
-MD5sum: 53f4ef4163d47c604d56b95dfa14e070
-SHA1: 9998df7e0c8c17d3e5357d0ce0d81101580f20ac
-SHA256: abad0fa56efdcd225ceb6d09c963a1407569eb4cd17a6fbdc1f99b80e14aa7ad
+MD5sum: a64047a61df8ae89845ed2f78e184692
+SHA1: a23c4a76fde361468a51763a8ab14084e2ded6c6
+SHA256: fcff345005d199a71790abec693c37c4c26a431ec6670f9311b259a0ca9d642c
 Section: Tweaks
 Description: LinkTunes reuploaded for private downloads
 Author: HackYouriPhone <repo@hackyouriphone.org>
 Name: LinkTunes for iOS 9
+
+Package: com.johnrlebaron.linktunesios9plugins
+Version: 2.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.johnrlebaron.linktunesios9plugins_2.1_iphoneos-arm.deb
+Size: 4098
+MD5sum: 542da23f5a521e446cd026f991d76b45
+SHA1: 5441565357f754bdb7713af3eb6952837d04ddfb
+SHA256: 3c66a1eed3ada2129c6c79b2d8d129882e305cc7f3d36d4b2027fe3d29b842c1
+Section: Tweaks
+Description: LinkTunes Plugins reuploaded for private downloads
+Author: HackYouriPhone <repo@hackyouriphone.org>
+Name: LinkTunes plugins
 
