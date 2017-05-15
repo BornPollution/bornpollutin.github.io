@@ -1,0 +1,14 @@
+Package: com.johnrlebaron.firstproject
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: John LeBaron <johnrlebaron@gmail.com>
+Depends: winterboard
+Filename: ./debs/com.johnrlebaron.firstproject_1.0_iphoneos-arm.deb
+Size: 152784
+MD5sum: ebce103d63392ef97970c0ca304c9344
+SHA1: 540c43560244c7a590f9c25eccd273442279d6e8
+SHA256: d376ce91d66b41bf50322a869bb3acec093fa56b5802cfbf5a0b149ee8a6a224
+Section: Themes
+Description: Testing Theme I guess
+Author: John LeBaron <johnrlebaron@gmail.com>
+Name: FirstProject
