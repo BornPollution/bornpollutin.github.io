@@ -1,0 +1,24 @@
+{
+  "title": "GetTune plugin by HackYouriPhone",
+  "engine": "GetTune",
+  "version": "2.0",
+  "developer": "HackYouriPhone",
+  "enabled" : true,
+  "search": {
+    "nodes": [
+      {"query": "URLENCODE(<var>query<var>)"},
+      {"page_html": "SEND(GET(https://get-tune.cc/search/?a=music&q=<var>query<var>))"},
+      {"nodes": "PARSE(<var>page_html<var>, li, EQUAL(class, track))"}
+    ],
+    "item": [
+      {"item_title": "CLEANUP(BETWEEN(<var>node<var>, <h2 class=\"playlist-name\">, </h2>))"},
+      {"item_infos": "BETWEEN(<var>node<var>, <span class=\"playlist-duration\">, </span>)"},
+      {"item_url": "BETWEEN(<var>node<var>, data-mp3=\", \")"},
+      {"item_id": "BETWEEN(<var>node<var>, data-id=\", \")"},
+    ]
+  },
+  "download": [
+      {"download_page_json": "SEND(POST(https://get-tune.cc/api/download, , song_id=<var>item_id<var>&song_name=<var>query<var>&song_mp3=<var>item_url<var>&song_artist=<var>query<var>))"},
+      {"download": "GET(<var>item_url<var>)"}
+  ]
+}

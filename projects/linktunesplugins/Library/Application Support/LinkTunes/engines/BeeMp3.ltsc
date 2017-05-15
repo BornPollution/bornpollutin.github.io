@@ -1,0 +1,24 @@
+{
+  "title": "BeeMp3 plugin by HackYouriPhone",
+  "engine": "BeeMp3",
+  "version": "2.0",
+  "developer": "HackYouriPhone",
+  "enabled" : false,
+  "search": {
+    "nodes": [
+      {"query": "URLENCODE(<var>query<var>)"},
+      {"page_html": "SEND(GET(http://beemp3s.org/search?query=<var>query<var>&field=all))"},
+      {"nodes": "PARSE(<var>page_html<var>, div, EQUAL(class, item))"}
+    ],
+    "item": [
+      {"item_title": "CLEANUP(BETWEEN(<var>node<var>, Download song:, </div>))"},
+      {"item_infos": "REPLACE(CLEANUP(BETWEEN(<var>node<var>, Duration:, </div>)), Frequency:, kbps)"},
+      {"item_url": "BETWEEN(<var>node<var>, <a href=\", \")"},
+    ]
+  },
+  "download": [
+      {"download_url_page": "SEND(GET(<var>item_url<var>))"},
+      {"download_url_page_log": "LOG(<var>item_url<var>)"},
+      {"download": "GET(BETWEEN(<var>download_url_page<var>, download</a><a href=\", \"))"}
+  ]
+}

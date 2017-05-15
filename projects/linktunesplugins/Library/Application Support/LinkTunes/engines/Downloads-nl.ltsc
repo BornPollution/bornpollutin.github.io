@@ -1,0 +1,25 @@
+{
+  "title": "Downloads-nl plugin by HackYouriPhone",
+  "engine": "Downloads-nl",
+  "version": "2.0",
+  "developer": "HackYouriPhone",
+  "enabled" : true,
+  "search": {
+    "nodes": [
+      {"query": "URLENCODE(<var>query<var>)"},
+      {"page_html": "SEND(GET(http://www.downloads-nl.net/results/mp3/1/<var>query<var>))"},
+      {"nodes": "PARSE(<var>page_html<var>, div, CONTAINS(style, width:510px;margin-left:10px;))"}
+    ],
+    "item": [
+      {"item_title": "CLEANUP(BETWEEN(<var>node<var>, <div style=\"margin-bottom:4px\" class=\"DefText\">, </div>))"},
+      {"item_artist": "CLEANUP(BETWEEN(<var>node<var>, Artist:, </a>))"},
+      {"item_title": "SET(<var>item_title<var> <var>item_artist<var>)"},
+      {"item_infos": "BETWEEN(<var>node<var>, <div style=\"margin-bottom:6px\" class=\"DefTextSmall\">, <br>)"},
+      {"item_url": "BETWEEN(<var>node<var>, href=\", \")"},
+      {"item_url": "SET(http://www.downloads.nl<var>item_url<var>)"}
+    ]
+  },
+  "download": [
+      {"download": "GET(<var>item_url<var>)"}
+  ]
+}

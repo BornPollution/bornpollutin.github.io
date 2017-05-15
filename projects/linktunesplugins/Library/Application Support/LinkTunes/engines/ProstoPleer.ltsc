@@ -1,0 +1,29 @@
+{
+  "title": "ProstoPleer plugin by HackYouriPhone",
+  "engine": "ProstoPleer",
+  "version": "2.0",
+  "developer": "HackYouriPhone",
+  "enabled" : true,
+  "search": {
+    "nodes": [
+      {"query": "RAWURLENCODE(<var>query<var>)"},
+      {"page_html": "SEND(GET(http://pleer.com/search?q=<var>query<var>))"},
+      {"page_html_log": "LOG(<var>page_html<var>)"},
+      {"nodes": "PARSE(<var>page_html<var>, li, EXISTS(file_id))"}
+    ],
+    "item": [
+      {"item_singer": "BETWEEN(<var>node<var>, singer=\", \")"},
+      {"item_song": "BETWEEN(<var>node<var>, song=\", \")"},
+      {"item_title": "CLEANUP(SET(<var>item_singer<var> <var>item_song<var>))"},
+      {"item_duration": "BETWEEN(<var>node<var>, duration=\", \")"},
+      {"item_rate": "BETWEEN(<var>node<var>, rate=\", \")"},
+      {"item_size": "BETWEEN(<var>node<var>, size=\", \")"},
+      {"item_infos": "SET(<var>item_duration<var> s <var>item_rate<var> <var>item_size<var>)"},
+      {"link_id": "BETWEEN(<var>node<var>, link=\", \")"}
+    ]
+  },
+  "download": [
+      {"download_page": "SEND(POST(http://pleer.net/site_api/files/get_url, action=download&id=<var>link_id<var>))"},
+      {"download": "GET(BETWEEN(<var>download_page<var>, track_link\":\", \"))"}
+  ]
+}
