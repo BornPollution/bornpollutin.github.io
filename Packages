@@ -5,14 +5,13 @@ Maintainer: Andrew Wiik
 Installed-Size: 984
 Depends: mobilesubstrate
 Filename: ./debs/com.atwiiks.horseshoe_1.0.14_iphoneos-arm.deb
-Size: 352544
-MD5sum: 56bb4abecb844121641db6fac4e63e7a
-SHA1: 215e0531188f0b703e6be0c3e105638c081445a9
-SHA256: b934934446868cef56a7a1795eaa7d05727bbee411746d3158fb9f335aef5016
+Size: 351898
+MD5sum: d56cfe7fcf05d94c72d4fcc003908de5
+SHA1: 6f60827046e61593372ed1768c1b16759641fcfc
+SHA256: ef5e475f34591b53bcdc21d6a0c4ab84a9ff3c45e5aee6f9f5e24024c76f26fe
 Section: Tweaks
 Description: A better iOS 10 Control Center!
 Author: Andrew Wiik
-Depiction: https://private.atwiiks.com/repo/depiction.php?packageID=com.atwiiks.horseshoe
 Name: Horseshoe
 
 Package: com.johnrlebaron.firstproject
@@ -20,10 +19,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <johnrlebaron@gmail.com>
 Filename: ./debs/com.johnrlebaron.firstproject_1.0_iphoneos-arm.deb
-Size: 152086
-MD5sum: e300c13b8aea17b8e09f2793229db645
-SHA1: f3ce2f2383d4a3d0a45a98778fb6f245cec2b8c2
-SHA256: 1d8e07b8628d180638b40bf24bf6c60aaa96acaf20afd41c650a04b451ec54e3
+Size: 151590
+MD5sum: d092a32b4a02e4566a2f42150bdf87ad
+SHA1: 44627fb64b671abeaddb003102ac5d76331a13fe
+SHA256: 2192f16f8817a628bd900bf801d0b3414befabd532c720fb1987027883c4bb80
 Section: Themes
 Description: Testing Theme I guess
 Author: John LeBaron <johnrlebaron@gmail.com>
