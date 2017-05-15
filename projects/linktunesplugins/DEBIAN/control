@@ -1,8 +1,0 @@
-Package: com.johnrlebaron.linktunesios9plugins
-Name: LinkTunes plugins
-Version: 2.1
-Depends: firmware (>= 9.0), mobilesubstrate
-Architecture: iphoneos-arm
-Author: HackYouriPhone <repo@hackyouriphone.org>
-Section: Tweaks
-Description: LinkTunes Plugins reuploaded for private downloads
