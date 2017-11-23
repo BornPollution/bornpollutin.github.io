@@ -1,8 +1,0 @@
-Package: com.johnrlebaron.firstproject
-Name: FirstProject
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Testing Theme I guess
-Maintainer: John LeBaron <johnrlebaron@gmail.com>
-Author: John LeBaron <johnrlebaron@gmail.com>
-Section: Themes
