@@ -1,12 +1,12 @@
 Package: pro.lebaron.limelightaddons
-Version: 1.02
+Version: 1.03
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
-Filename: ./debs/pro.lebaron.limelightaddons_1.02_iphoneos-arm.deb
+Filename: ./debs/pro.lebaron.limelightaddons_1.03_iphoneos-arm.deb
 Size: 252088
-MD5sum: f966e09e09b33efb5238dfe1908215d1
-SHA1: baf47b5ab0fd7d6b69a84def1fd5468031d54b05
-SHA256: 6293bead640713bf195896d1815e30457f05034a19d07eeb0b431becc032840a
+MD5sum: 68c9f0237dca18e197469045b838e8ca
+SHA1: 695d40501a4c70d4f5ae07f8108f395745de1453
+SHA256: a8dbe93271aa755230778f45fbb2e79fe5969fd30784224eb166e311e79a269c
 Section: Themes
 Description: Additional icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -14,14 +14,14 @@ Depiction: http://johnrlebaron.github.io/depictions/limelightaddons
 Name: Limelight Addons
 
 Package: pro.lebaron.limelightalts
-Version: 1.02
+Version: 1.03
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
-Filename: ./debs/pro.lebaron.limelightalts_1.02_iphoneos-arm.deb
+Filename: ./debs/pro.lebaron.limelightalts_1.03_iphoneos-arm.deb
 Size: 145760
-MD5sum: 04068f6f0eb88e261d17d0ee1ef3dde6
-SHA1: ff0aaa52526e9fd69a419c03c7b0d5e216e4c1f7
-SHA256: 1d315c21f0c1132bdadcd922e4676b532987d08fedf3befcce81f742e11e00db
+MD5sum: 44c50c476d5fd0ba665bdaf150a36e09
+SHA1: d01dcfc9213c7802e8431dba69592c8f1715b2ec
+SHA256: ba5a3c188edcd08996d65cca0357bcc917c60b873ce586197b2496ddb35b72f2
 Section: Themes
 Description: Alternate icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
