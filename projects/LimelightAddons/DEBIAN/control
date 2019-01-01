@@ -1,8 +1,9 @@
 Package: pro.lebaron.limelightaddons
 Name: Limelight Addons
-Version: 1.01
+Version: 1.02
 Architecture: iphoneos-arm
 Description: Additional icons for Limelight theme
-Author: John LeBaron
-Maintainer: John LeBaron
+Depiction: http://johnrlebaron.github.io/depictions/limelightaddons
+Author: John LeBaron <john@lebaron.pro>
+Maintainer: John LeBaron <john@lebaron.pro>
 Section: Themes
