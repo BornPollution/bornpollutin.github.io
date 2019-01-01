@@ -1,0 +1,8 @@
+Package: pro.lebaron.limelightalts
+Name: Limelight Alternates
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Alternate icons for Limelight theme
+Author: John LeBaron
+Maintainer: John LeBaron
+Section: Themes
