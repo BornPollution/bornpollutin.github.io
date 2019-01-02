@@ -1,10 +1,6 @@
 Package: pro.lebaron.limelightalts
 Name: Limelight Alternates
-<<<<<<< HEAD
 Version: 1.1
-=======
-Version: 1.02
->>>>>>> parent of 67c8455... wtf is going on
 Architecture: iphoneos-arm
 Description: Alternate icons for Limelight theme
 Depiction: http://johnrlebaron.github.io/depictions/limelightalts
