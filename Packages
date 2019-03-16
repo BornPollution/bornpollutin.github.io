@@ -3,10 +3,10 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightaddons_1.1_iphoneos-arm.deb
-Size: 302526
-MD5sum: cdb914794643a3ed7fdd9662d5bcb456
-SHA1: 51281542f40f2cbf445a484be410fadc3fffb315
-SHA256: 527b0c258f2e1b4b3704cfd145c5d2183c1c57c9611d8ca2563fbb269540bb55
+Size: 417350
+MD5sum: b8a1b3df46ff8c264c5eb505982cc58e
+SHA1: a2b1acb9eb872dc8908e66d548f1c158121c4541
+SHA256: 4639320ddeb8168bdfe230d49065f618cf2c866e45a711acff84dc38f9c375f5
 Section: Themes
 Description: Additional icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightalts_1.1_iphoneos-arm.deb
 Size: 175122
-MD5sum: 6d2be740dc33a11782c551a959b52f56
-SHA1: 35e9df71f975d8d1c723d0f704cdfd4a9247ec73
-SHA256: d5849369a533dea80cf8f3f7d33fdce93f5fef4e8979103decd0c6ee9ddb2ae0
+MD5sum: 1151e62c77c6890805208008c4e673e7
+SHA1: 86b3e4fe295c1fc2b27858570423f8b13ebfbf0a
+SHA256: 513876efd9a79647b3697ddcf86d4609cd646c134a6aebad55145d0ba771151d
 Section: Themes
 Description: Alternate icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -35,9 +35,9 @@ Maintainer: John LeBaron <john@lebaron.pro>
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/pro.lebaron.weatherlock12_0.0.2_iphoneos-arm.deb
 Size: 36608
-MD5sum: 5b9d5765e31f68cd6173bc15e7d542d0
-SHA1: 2f300b1b95bf2118c96d37b269afced519f0e2cf
-SHA256: d9bcf405eb45ff0e1ac2840a70864d1af2edcceb69885180ef7f76983d7a2910
+MD5sum: d108b6db631db144590729692b7d4f1c
+SHA1: 1a7f5c2216b9fa923f2372230f83a67782aedeb2
+SHA256: 6f4cb26f800a1fb49c5f72532f207d7e822b55a6f22a8d1a5b790064bb48d94a
 Section: Tweaks
 Description: animated weather background on the lock and home screen
 Author: John LeBaron <john@lebaron.pro>
