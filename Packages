@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightaddons_1.6_iphoneos-arm.deb
 Size: 718748
-MD5sum: 6701877f252ffcc56fe7701197a19d55
-SHA1: 7c7de43e97851d3bc8c5da1d33a870c7e85e7462
-SHA256: 06d90730f3844e88eb6bee39c9790999db6dd47ffe26d2d89755b847189d941f
+MD5sum: d911b1d5c3065971cca314c9da0aa339
+SHA1: 380e1387389c719e161ccc6f3c90efa45f93ec1f
+SHA256: 14daf76cebac6c5981380630d21b762ba437e82474eb514bee78b2acac971320
 Section: Themes
 Description: Additional icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -14,14 +14,14 @@ Depiction: http://bornpollution.github.io/depictions/limelightaddons
 Name: Limelight Addons
 
 Package: pro.lebaron.limelightalts
-Version: 1.3
+Version: 1.3.1
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
-Filename: ./debs/pro.lebaron.limelightalts_1.3_iphoneos-arm.deb
-Size: 414632
-MD5sum: b9c55267103cbe0c0a3596123efb0d73
-SHA1: 5cb6ab329e8d6bb03c0139343a24500ded4310db
-SHA256: 5a47dd244ebfc687f186fe67b737b4036e52d510cad87e87cfa610cbe244ab9f
+Filename: ./debs/pro.lebaron.limelightalts_1.3.1_iphoneos-arm.deb
+Size: 414628
+MD5sum: 87c87d978417a8fbcd18ddc5f32fbce1
+SHA1: 03a71c13cfb291e622be8b388fdc43ebaa2e616f
+SHA256: 90fca242dc5d8b7391e00db51243f316c8479da778e83e05930c88e509e1c51b
 Section: Themes
 Description: Alternate icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -35,9 +35,9 @@ Maintainer: John LeBaron <john@lebaron.pro>
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/pro.lebaron.weatherlock12_0.0.2_iphoneos-arm.deb
 Size: 36608
-MD5sum: 3d672cb5783580aa4688aaa0b9620a5b
-SHA1: 758073483ef163e3cb4e0482283cea55cb27c4fe
-SHA256: 885575a1144b484882ed06cc86e249c7a11c726b3e949aa7ca9eb21d01e4fa61
+MD5sum: 6d7524cda5b3cebf21f45f35b890cff7
+SHA1: 59e310a86592c343072b01d07de51bf6084f6d80
+SHA256: afc7c877588ef47d6dbe2b38e01742a40198b2cf83e60e832a53eaeaa2f52125
 Section: Tweaks
 Description: animated weather background on the lock and home screen
 Author: John LeBaron <john@lebaron.pro>
