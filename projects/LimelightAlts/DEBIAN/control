@@ -3,7 +3,7 @@ Name: Limelight Alternates
 Version: 1.1
 Architecture: iphoneos-arm
 Description: Alternate icons for Limelight theme
-Depiction: http://johnrlebaron.github.io/depictions/limelightalts
+Depiction: http://bornpollution.github.io/depictions/limelightalts
 Author: John LeBaron <john@lebaron.pro>
 Maintainer: John LeBaron <john@lebaron.pro>
 Section: Themes

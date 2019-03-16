@@ -3,14 +3,14 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightaddons_1.2_iphoneos-arm.deb
-Size: 417358
-MD5sum: 2e6224737ace3f66ac049e1cdd1dfe64
-SHA1: e42a849dc6322c43e40798f5df08e0928b8898bd
-SHA256: 8be2bc7919e91c0433cffa27e78d6743600839948861d8849df2a0fcfa76279a
+Size: 417362
+MD5sum: 2c84df547eca852ad6e40ff6231100f3
+SHA1: f60f1719bf721cb4662be950c98099f60f01f880
+SHA256: 27469e68fa0dbcdf8874d29dd3bebabf12f07c0e3b5c24fbec958e42b3a5f940
 Section: Themes
 Description: Additional icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
-Depiction: http://johnrlebaron.github.io/depictions/limelightaddons
+Depiction: http://bornpollution.github.io/depictions/limelightaddons
 Name: Limelight Addons
 
 Package: pro.lebaron.limelightalts
@@ -18,14 +18,14 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightalts_1.1_iphoneos-arm.deb
-Size: 175122
-MD5sum: d3b0f2639858a3fe80f1932b455fb0d6
-SHA1: e78feafe745d4c6514b0852fb3eb7f74841c2781
-SHA256: bbcdb399086b1d13037e793be22c8e97d1610f5b640a2d96e1da694593757bed
+Size: 175134
+MD5sum: 3c957ac90cc18c7b39373f847ae7cf61
+SHA1: f8ed6ddbfe4ac07b3dd8b9af2da390a0cfb2ff83
+SHA256: 373100c14ee5280542a1fc956b5b7cbd754ededa76d789e6787122ef3ba956b5
 Section: Themes
 Description: Alternate icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
-Depiction: http://johnrlebaron.github.io/depictions/limelightalts
+Depiction: http://bornpollution.github.io/depictions/limelightalts
 Name: Limelight Alternates
 
 Package: pro.lebaron.weatherlock12
@@ -35,9 +35,9 @@ Maintainer: John LeBaron <john@lebaron.pro>
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/pro.lebaron.weatherlock12_0.0.2_iphoneos-arm.deb
 Size: 36608
-MD5sum: f71227645fbe5459ff9fd2658de450e1
-SHA1: 90f1989795bae641e1300ee3a343029a050a4880
-SHA256: e833ac7b7fa0f319842b20c2d95ab180fb572e8da24bd4f2ce8c641b52ee3e48
+MD5sum: 01703bc2fcd8cccca88ced371b8daecb
+SHA1: 8c24f979f6f7a40cc9334d1f1c8c7e250e169449
+SHA256: c1cd3f63fc2e56558a770280f942a8e1e5ab4cb669f1a391c2435b68d0833371
 Section: Tweaks
 Description: animated weather background on the lock and home screen
 Author: John LeBaron <john@lebaron.pro>

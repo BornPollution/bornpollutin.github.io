@@ -3,7 +3,7 @@ Name: Limelight Addons
 Version: 1.2
 Architecture: iphoneos-arm
 Description: Additional icons for Limelight theme
-Depiction: http://johnrlebaron.github.io/depictions/limelightaddons
+Depiction: http://bornpollution.github.io/depictions/limelightaddons
 Author: John LeBaron <john@lebaron.pro>
 Maintainer: John LeBaron <john@lebaron.pro>
 Section: Themes
