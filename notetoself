@@ -2,3 +2,5 @@ place png(s) in projects/<theme>/Library/Themes/<theme>/IconBundles
 update package version in projects/<theme>/DEBIAN/control
 update depiction
 update changelog
+./update.sh
+push to origin
