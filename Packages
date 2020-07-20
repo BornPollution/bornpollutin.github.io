@@ -1,12 +1,12 @@
 Package: pro.lebaron.limelightaddons
-Version: 1.13
+Version: 1.14
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
-Filename: ./debs/pro.lebaron.limelightaddons_1.13_iphoneos-arm.deb
-Size: 2328366
-MD5sum: bcda20b03c320fd850ec8a0264941102
-SHA1: e0b774f612965fefe482e8ebe9122b318341548b
-SHA256: a31fc92a11140c6326d6a50e8dcb8074e942d281c4d1f200ac47b224f0c8b5e9
+Filename: ./debs/pro.lebaron.limelightaddons_1.14_iphoneos-arm.deb
+Size: 2369066
+MD5sum: fa5156c16f673c8539a5660430bee1dc
+SHA1: 860fbfef34b27790aeec2956386bce1df78656c7
+SHA256: 68aa34c3dd48cc667175c180aa8c2dcaa18fdf4f3b97254e7a4197a3e9beec68
 Section: Themes
 Description: Additional icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -18,10 +18,10 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightalts_1.6_iphoneos-arm.deb
-Size: 1367732
-MD5sum: 05a1b423300166c305f60f0e3dbdfce1
-SHA1: 00f9ad07da2f5e47af7c6464b2f63ed0c181b7b7
-SHA256: 373214b147b8576c265926c4dbe61b8249e81a767538de74e54007b193c98440
+Size: 1367736
+MD5sum: 5d3dcb0ea2ed8cebe9ff654ff83a1e03
+SHA1: ec209cf7683740017d7a12f53593b4ad23878ce7
+SHA256: abeacfc2c748ab43fea303a606ea3799437e97bcbc944a1e2c4c5b740577dd49
 Section: Themes
 Description: Alternate icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -34,10 +34,10 @@ Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/pro.lebaron.weatherlock12_0.0.2_iphoneos-arm.deb
-Size: 36608
-MD5sum: 3677b16926d6e62843dbffd9cab1cce1
-SHA1: 300481576d8516e99d3c0d9540d0f38ae7c58f8d
-SHA256: 35ecaf7e7f19ccd67f2d2ce48cda7f0cbfbcd2fedb8b0c1ce994e6356dbaf9d6
+Size: 36628
+MD5sum: c0aacb12b41d71c58fdd7272f60f8ffd
+SHA1: a9087ea3fc24e93621e1c1dfefff0f55498f3987
+SHA256: cd652a095fa49b55025eaae0cae0058bbdeb1030fe5d3446390ffffd337f69d4
 Section: Tweaks
 Description: animated weather background on the lock and home screen
 Author: John LeBaron <john@lebaron.pro>
