@@ -1,9 +1,0 @@
-Package: pro.lebaron.weatherlock12
-Name: WeatherLock (iOS 12)
-Depends: mobilesubstrate, firmware (>= 11.0)
-Architecture: iphoneos-arm
-Description: animated weather background on the lock and home screen
-Maintainer: John LeBaron <john@lebaron.pro>
-Author: John LeBaron <john@lebaron.pro>
-Section: Tweaks
-Version: 0.0.2
