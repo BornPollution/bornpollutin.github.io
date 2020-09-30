@@ -1,12 +1,30 @@
+Package: com.lunogroup.Legizmo
+Version: 1.0-20SA261730i
+Architecture: iphoneos-arm
+Maintainer: lunotech11
+Installed-Size: 2288
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.lunogroup.legizmo_1.0-20SA261730i_iphoneos-arm.deb
+Size: 1045662
+MD5sum: a69b7e5fecfd12536553601717708f1a
+SHA1: af0d7005f733215412e84f825cbc67743fc2a3a9
+SHA256: 046c632d7fb7e7a14859450b3805ca5f98a63b5f2022daf46d8ff387ea7c70f3
+Section: Tweaks
+Description: Allow iOS to pair with newer versions of watchOS
+Tag: cydia::commercial
+Author: lunotech11
+Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
+Name: Legizmo (Internal Release)
+
 Package: pro.lebaron.limelightaddons
 Version: 1.14
 Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightaddons_1.14_iphoneos-arm.deb
-Size: 2393218
-MD5sum: 38e5b79e916ad2737efc2e5e42415b23
-SHA1: f8fdeb7f894ae1bd90413a88eec5ea53b31b71ac
-SHA256: c69dd513679876ba260fc3196104208e201d6292f053f734214f5e3d0c21d4ab
+Size: 2393178
+MD5sum: efcee8a95967f40f81ec0159f6e1f994
+SHA1: 497ec89970dad130afec84debd18294e533ba35c
+SHA256: befc2ca0c25c914126eeaf7a198269a3e9a072a86c15a3dd4ea06bddf1b13160
 Section: Themes
 Description: Additional icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>
@@ -19,9 +37,9 @@ Architecture: iphoneos-arm
 Maintainer: John LeBaron <john@lebaron.pro>
 Filename: ./debs/pro.lebaron.limelightalts_1.6_iphoneos-arm.deb
 Size: 1367736
-MD5sum: 0cfe82f9df7a76190bafa06d20cb0343
-SHA1: 9ca18c2005e7ed47f84cb2af7fb9fa41a857c8aa
-SHA256: a14aa3c0028c9e586ce1490c5576da6a5f6d4ee57d9efcb1e89974936b91c1e0
+MD5sum: e136636826aab4b507ec1cc3477160fc
+SHA1: 1d70a35eb4f2789b3b420451ed23f78fa87dc33e
+SHA256: ab4543c9a4a37ca214a45c6857cdb599961320b2fbf6bbe19489de38c631fbb5
 Section: Themes
 Description: Alternate icons for Limelight theme
 Author: John LeBaron <john@lebaron.pro>

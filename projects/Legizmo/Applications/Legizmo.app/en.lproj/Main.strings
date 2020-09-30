@@ -1,0 +1,78 @@
+
+/* Class = "UILabel"; text = "You must read and agree with the following statement to use Legizmo"; ObjectID = "2xL-C1-4bV"; */
+"2xL-C1-4bV.text" = "You must read and agree with the following statement to use Legizmo";
+
+/* Class = "UIButton"; normalTitle = "Use Native Method"; ObjectID = "5Zn-Gb-C1Z"; */
+"5Zn-Gb-C1Z.normalTitle" = "Use Native Method";
+
+/* Class = "UIButton"; normalTitle = "Accept and Continue"; ObjectID = "5vG-2e-7Jp"; */
+"5vG-2e-7Jp.normalTitle" = "Accept and Continue";
+
+/* Class = "UILabel"; text = "Tweak Method"; ObjectID = "AcM-E3-3hU"; */
+"AcM-E3-3hU.text" = "Tweak Method";
+
+/* Class = "UIButton"; normalTitle = "Decline"; ObjectID = "BaP-TM-M0R"; */
+"BaP-TM-M0R.normalTitle" = "Decline";
+
+/* Class = "UIBarButtonItem"; title = "Method"; ObjectID = "Crc-Va-cve"; */
+"Crc-Va-cve.title" = "Method";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "Gju-ix-AfQ"; */
+"Gju-ix-AfQ.title" = "Root View Controller";
+
+/* Class = "UINavigationItem"; title = "Method Selection"; ObjectID = "Ilp-7w-ZH1"; */
+"Ilp-7w-ZH1.title" = "Method Selection";
+
+/* Class = "UILabel"; text = "Native Method"; ObjectID = "J1H-uS-M3m"; */
+"J1H-uS-M3m.text" = "Native Method";
+
+/* Class = "UILabel"; text = "Ready to Start"; ObjectID = "LDr-Au-zXB"; */
+"LDr-Au-zXB.text" = "Ready to Start";
+
+/* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "LY4-UH-flz"; */
+"LY4-UH-flz.normalTitle" = "Restart";
+
+/* Class = "UILabel"; text = "Legizmo will run as a normal tweak, only while your iPhone is in a jailbroken state."; ObjectID = "OLc-L2-ygX"; */
+"OLc-L2-ygX.text" = "Legizmo will run as a normal tweak, only while your iPhone is in a jailbroken state.";
+
+/* Class = "UITabBarItem"; title = "Uninstall"; ObjectID = "PWx-5x-frw"; */
+"PWx-5x-frw.title" = "Uninstall";
+
+/* Class = "UIViewController"; title = "Patch Type"; ObjectID = "TKt-BB-WDG"; */
+"TKt-BB-WDG.title" = "Patch Type";
+
+/* Class = "UIButton"; normalTitle = "Use Tweak Method"; ObjectID = "UDz-yo-XyN"; */
+"UDz-yo-XyN.normalTitle" = "Use Tweak Method";
+
+/* Class = "UILabel"; text = "Legizmo is provided with no warranty or guarantee of support. The developer cannot be held liable for any loss of usability or data caused directly or indirectly by your use of Legizmo. Legizmo is not guaranteed to support all possible combinations of iOS and watchOS versions past, present or future."; ObjectID = "XeQ-Pe-YjI"; */
+"XeQ-Pe-YjI.text" = "Legizmo is provided with no warranty or guarantee of support. The developer cannot be held liable for any loss of usability or data caused directly or indirectly by your use of Legizmo. Legizmo is not guaranteed to support all possible combinations of iOS and watchOS versions past, present or future.";
+
+/* Class = "UILabel"; text = "iPhone must be restarted for Legizmo's changes to take effect"; ObjectID = "aAF-cV-asi"; */
+"aAF-cV-asi.text" = "iPhone must be restarted for Legizmo's changes to take effect. You can then pair your Watch from the normal Watch app.";
+
+/* Class = "UILabel"; text = "The native method allows Legizmo to work even when your iPhone is not in a jailbroken state."; ObjectID = "dxN-Kb-vlW"; */
+"dxN-Kb-vlW.text" = "The native method allows Legizmo to work even when your iPhone is not in a jailbroken state.";
+
+/* Class = "UINavigationItem"; title = "Liability"; ObjectID = "hff-iY-glY"; */
+"hff-iY-glY.title" = "Liability";
+
+/* Class = "UINavigationItem"; title = "Restart"; ObjectID = "j4b-Op-nLT"; */
+"j4b-Op-nLT.title" = "Restart";
+
+/* Class = "UIButton"; normalTitle = "Later"; ObjectID = "lHW-WP-fcF"; */
+"lHW-WP-fcF.normalTitle" = "Later";
+
+/* Class = "UITabBarItem"; title = "Pairing"; ObjectID = "rj5-IV-wsy"; */
+"rj5-IV-wsy.title" = "Scan";
+
+/* Class = "UITabBarItem"; title = "Install"; ObjectID = "uby-dC-mgh"; */
+"uby-dC-mgh.title" = "Install";
+
+/* Class = "UINavigationItem"; title = "Legizmo"; ObjectID = "ugt-bV-0cQ"; */
+"ugt-bV-0cQ.title" = "Legizmo";
+
+/* Class = "UILabel"; text = "Restart iPhone"; ObjectID = "yk1-e1-lAC"; */
+"yk1-e1-lAC.text" = "Restart iPhone";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "zx7-3I-Sj4"; */
+"zx7-3I-Sj4.normalTitle" = "Start";

@@ -1,0 +1,13 @@
+Package: com.lunogroup.Legizmo
+Name: Legizmo (Internal Release)
+Version: 1.0-20SA261730i
+Section: Tweaks
+Installed-Size: 2288
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate
+Description: Allow iOS to pair with newer versions of watchOS
+Author: lunotech11
+Maintainer: lunotech11
+Icon: file:///Applications/Legizmo.app/AppIcon60x60@2x.png
+Tag: cydia::commercial
+

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo -e "[Legizmo] Refreshing home screen icons (UICache)..."
+su mobile -c uicache -p /Applications/Legizmo.app &>/dev/null || true
